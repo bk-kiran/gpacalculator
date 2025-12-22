@@ -30,7 +30,7 @@ const Home = () => {
         </div>
 
         <div className="home-footer">
-          <p>Free to use • No data stored • Privacy focused</p>
+          <p>bk-kiran</p>
         </div>
       </div>
     </div>
