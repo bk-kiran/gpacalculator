@@ -10,7 +10,7 @@ const Home = () => {
       <div className="home-container">
         <div className="home-header">
           <h1>📊 Academic Calculators</h1>
-          <p>Simple, fast, and accurate calculators for your academic needs</p>
+          <p>Simple, fast, and accurate calculators for your college needs</p>
         </div>
 
         <div className="calculators-grid">
@@ -24,7 +24,7 @@ const Home = () => {
           <Link to="/gpa-calculator" className="calculator-card">
             <div className="calculator-icon">🎓</div>
             <h2>GPA Calculator</h2>
-            <p>Calculate your semester GPA based on courses, credits, and letter grades</p>
+            <p>Track your GPA across multiple semesters and calculate your cumulative GPA with course grades and credits</p>
             <div className="card-arrow">→</div>
           </Link>
         </div>
